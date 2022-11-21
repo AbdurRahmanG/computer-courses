@@ -1,0 +1,123 @@
+
+
+Basic computer course:-
+	Introduction to computer:
+		What is computer
+		Application of computer
+		Input/Output devices
+		Hardware and Software etc.
+	Computer operating:
+		Operating system
+		User interface
+		Using mouse
+		Using menu
+		Viewing of file, folders, directories etc.
+	Understand MS word
+	Understand MS excel
+	Understand MS PowerPoint
+	Introduction to internet
+	Way of communication (e-mail)
+
+-----
+
+Basic Computer Course:-
+Computer Fundamentals
+	Computer Introduction
+	Parts of Computer
+		Input Device
+		Output Device
+		Processing Unit
+	History and Generation of Computer
+	Memory Device
+	Types of Computer
+	Processing Unit
+	Windows Overview 7, 8, 10, 11 etc.
+	Full form Related to Computer
+	Virus and Anti-virus etc.
+	MS-Paint
+	Notepad (Create a document, Extension File)
+	WordPad (A writing package)
+	Microsoft Office Package - MS Office (Microsoft Office)
+		MS Word
+			Date sheet, Syllabus, Paper's Typing, Document etc.
+		MS PowerPoint
+			Education and Company's Types Presentation
+		MS Exell
+			Accounting and mathematical work
+			Exel formulae
+				Arithmetic, Relational and Logical Operators
+				Operator Precedence
+				Fixing Formulae Errors
+			Functions
+				Find
+				Len Function
+				Mid Function
+				Date & Time Functions
+				Math & Trig Functions
+				Statistical Functions
+				Financial Functions
+				Lookup & Reference Functions
+				Logical Functions
+			Complete Ribbon bar Tools and Options
+	Internet
+		Browser
+		Surfing
+		Email/Gmail
+		Downloading/Uploading
+		Basic of Social Networking site
+		Search engines etc.
+Jobs
+	Computer Operator
+	Data Entry etc.
+-----
+
+Basic Computer Course - 
+	Introduction to computer:-
+		Computer define, computer on or off, hardware and software devices etc.
+	Basic Knowledge to Windows :-
+		Operating System, file or folder create, data copy and paste, wallpaper change, file or application shortcut creation etc.
+	Basic knowledge about MS Office:-
+		Three applications MS Word, MS Excel, MS PowerPoint etc.
+	Basic information of print and printer.
+	Basic knowledge of internet.
+		Email id create, send and receive email, file attachment, hotspot, Wi-Fi, URL etc.
+
+
+
+
+Chapter 1 - 
+		Using the Computer & Managing Files
+		How to On/Off the Computer?
+		Desktop Environment
+		Introduction to Windows 10
+		Operating System
+		Identifying Installed RAM (Random Access Memory)
+		CPU Processing Speed & Its brand
+		Computer's Configuration
+		Use of Help Command
+		
+-----
+
+Chapter 1 - 
+		Paint
+		Notepad
+		WordPad
+Chapter 2 - 
+		Computer Fundamentals
+		(Computer Introductions(What is computer))
+		Input Device
+		Output Device
+		Processing Unit
+		Computer Generation
+		Computer Language
+		Computer Memory etc.
+Chapter 3 - 
+		MS-Office
+		MS Word
+		MS Excel
+		MS PowerPoint
+Chapter 4 - 
+		Internet
+		What is browser?
+		Surfing, Email, Downloading, Online Work,
+		Form Fill, Rail Ticket, Air Ticket, Tatkal Ticket etc.

@@ -1,0 +1,20 @@
+Computer Fundamentals:-
+Introduction to Computers
+Types of Computer
+	Desktop Computer
+	Laptop Computer
+Data
+Working of Computer
+Computer Organization
+Parts of Computer
+	Hardware
+	Software
+-----
+
+What is Desktop?
+What are icons?
+What is Taskbar?
+How to change System date and time?
+How to change wallpaper?
+How to save any file on the desktop?
+-----
